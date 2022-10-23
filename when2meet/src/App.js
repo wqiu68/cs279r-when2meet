@@ -27,8 +27,8 @@ function App() {
           selection={userSelection}
           /* change the selection state */
           onChange={setUserSelection}
-          startDate={new Date('October 1, 2022')}
-          numDays = {5}
+          startDate={new Date('November 2, 2022')}
+          numDays = {3}
           minTime = {9}
           maxTime = {18}
           unselectedColor={'#F1F2EC'}
